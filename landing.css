@@ -238,8 +238,9 @@ h1{
 
 footer{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   min-height: 10vh;
   background-color: white;
-  padding: 40px, 60px;
+  align-items: center;
+  gap: 700px;
 }
